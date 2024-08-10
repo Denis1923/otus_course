@@ -1,15 +1,30 @@
+using ConsoleApp;
+using System.Runtime.CompilerServices;
+
 namespace TestProjects
 {
 	[TestClass]
-	public class LessonOne
+	public class LessonOneTests
 	{
+		private LessonOne _lessonOne = new LessonOne();
+
 		/// <summary>
 		/// Написать тест, который проверяет, что для уравнения x^2+1 = 0 корней нет (возвращается пустой массив)
 		/// </summary>
 		[TestMethod]
-		public void Test1()
+		public void CheckNoRoot(double a, double b, double c)
 		{
-			
+			// Arrange
+			var a1 = a;
+			var b1 = b;
+			var c1 = c;
+
+			// Act
+			var D = Math.Sqrt(b1) - 4 * a1 * c1;
+			var checkNoRoot = D < 0;
+
+			// Assert
+			Assert.AreEqual(true, checkNoRoot);
 		}
 
 		/// <summary>
