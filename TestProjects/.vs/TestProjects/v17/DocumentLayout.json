@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\_gitHub\\otus_course\\TestProjects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADBA7A2-A451-4C08-99E4-5EA0D1D2D36C}|TestProjects.csproj|d:\\source\\_github\\otus_course\\testprojects\\lessonone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ADBA7A2-A451-4C08-99E4-5EA0D1D2D36C}|TestProjects.csproj|solutionrelative:lessonone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7B2B68-1850-4E2E-AA72-B17FC0F05013}|..\\ConsoleApp\\ConsoleApp.csproj|d:\\source\\_github\\otus_course\\consoleapp\\lessonone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonOne.cs",
+              "DocumentMoniker": "D:\\source\\_gitHub\\otus_course\\ConsoleApp\\LessonOne.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\LessonOne.cs",
+              "ToolTip": "D:\\source\\_gitHub\\otus_course\\ConsoleApp\\LessonOne.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\LessonOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:48:46.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LessonOne.cs",
+              "DocumentMoniker": "D:\\source\\_gitHub\\otus_course\\TestProjects\\LessonOne.cs",
+              "RelativeDocumentMoniker": "LessonOne.cs",
+              "ToolTip": "D:\\source\\_gitHub\\otus_course\\TestProjects\\LessonOne.cs",
+              "RelativeToolTip": "LessonOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:44:23.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
